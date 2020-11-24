@@ -1,9 +1,9 @@
 /* Modifier le code ci dessous pour réaliser l'exercice */
+let x = 5;
+let y = 4;
 
-
-(x  y) {
-    document.getElementById('monDiv').innerHTML = "La variable x est supérieure à la variable y";
-}  {
-    document.getElementById('monDiv').innerHTML = "La variable x n'est pas supérieure à la variable y";
+if (x > y); {
+    alert("verifier")
 }
-
+let element = document.getElementById('monDiv').innerHTML = "La variable x est supérieure à la variable y";
+    console.log(element)
