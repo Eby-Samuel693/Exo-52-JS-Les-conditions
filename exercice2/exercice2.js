@@ -5,5 +5,4 @@ let y = 4;
 if (x > y); {
     alert("verifier")
 }
-let element = document.getElementById('monDiv').innerHTML = "La variable x est supérieure à la variable y";
-    console.log(element)
+document.getElementById('monDiv').innerHTML = "La variable x est supérieure à la variable y";
